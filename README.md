@@ -9,7 +9,7 @@ A goal getter, as well as a self-starter seeks the position of Intern Web Develo
 * 🌍  I'm based in Bengaluru.
 * 🖥️  See my portfolio at [Vanshul's Portfolio.](http://vanshul22.github.io/Vanshul-Portfolio/)
 * ✉️  You can contact me at [vkvanshulkesharwani54@gmail.com](mailto:vkvanshulkesharwani54@gmail.com)
-* 🚀  I'm currently working on [Puzzle Riddle Game.](http://github.com/vanshul22/Puzzle-Riddle-Game)
+* 🚀  I'm currently working on [Shooting Arena Game](https://github.com/vanshul22/Shooting-Arena-JS-Game).
 * 🧠  I'm learning MERN stack developer.
 
 ### Skills
