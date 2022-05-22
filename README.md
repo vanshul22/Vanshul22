@@ -4,7 +4,7 @@ Hi 👋 My name is Vanshul Kesharwani
 Web Developer & Designer
 ------------------------
 
-A goal getter, as well as a self-starter seeks the position of Intern Web Developer. Bringing Semester's of Coding Experience in HTML, CSS, JavaScript, NodeJS, ExpressJS, Python, Django, Git and Linux OS to helping in creating great Web apps that delivers quality cyber competition.
+A goal getter, as well as a self-starter seeks the position of Intern Web Developer. Bringing Semester's of Coding Experience in HTML, CSS, JavaScript, NodeJS, ExpressJS, React JS, Python, Django, Git and Linux OS to helping in creating great Web apps that delivers quality cyber competition.
 
 * 🌍  I'm based in Bengaluru.
 * 🖥️  See my portfolio at [Vanshul's Portfolio.](http://vanshul22.github.io/Vanshul-Portfolio/)
