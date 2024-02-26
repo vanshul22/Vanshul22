@@ -59,7 +59,7 @@ Check out my GitHub for a portfolio of projects, and let's connect for potential
 ### My GitHub Stats
 ![GitHub Stats](https://img.shields.io/github/followers/vanshul22?label=Followers&style=social)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shree2310&label=Profile%20views&color=0e75b6&style=flat" alt="shree2310" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshul22&label=Profile%20views&color=0e75b6&style=flat" alt="vanshul22" /> </p>
 
 ![GitHub Contributions](https://img.shields.io/github/commit-activity/w/vanshul22/vanshul22?label=Contributions)
 
