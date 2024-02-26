@@ -53,6 +53,8 @@ Check out my GitHub for a portfolio of projects, and let's connect for potential
 ![Static Badge](https://img.shields.io/badge/FIREBASE%20HOOKS-8A2BE2?style=for-the-badge&logo=firebase&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CLERK%20AUTH-8A2BE2?style=for-the-badge&logo=clerk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/EXPO%20APP-8A2BE2?style=for-the-badge&logo=expo&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AWS%20(EC2,VPC,S3,Jump%20Server)-8A2BE2?style=for-the-badge&logo=aws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=white)
 
 -------------------------
 
