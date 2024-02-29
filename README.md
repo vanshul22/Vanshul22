@@ -43,6 +43,7 @@ Check out my GitHub for a portfolio of projects, and let's connect for potential
 ![Static Badge](https://img.shields.io/badge/NEXT%20AUTH-8A2BE2?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=llvm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ORM'S-8A2BE2?style=for-the-badge&logo=orm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GraphQL-8A2BE2?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/HEADLESS%20UI-8A2BE2?style=for-the-badge&logo=headlessui&logoColor=white)
