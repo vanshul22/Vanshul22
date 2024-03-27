@@ -39,11 +39,13 @@ Check out my GitHub for a portfolio of projects, and let's connect for potential
 ![Static Badge](https://img.shields.io/badge/ZUSTAND-8A2BE2?style=for-the-badge&logo=zerply&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ZOD-8A2BE2?style=for-the-badge&logo=zod&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/OAUTH-8A2BE2?style=for-the-badge&logo=auth0&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSR%20SSR%20SSG%20ISR-8A2BE2?style=for-the-badge&logo=stripe&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSR%20SSR%20SSG%20ISR-8A2BE2?style=for-the-badge&logo=spreaker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/NEXT%20AUTH-8A2BE2?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=llvm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ORM'S-8A2BE2?style=for-the-badge&logo=orm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ORM'S-8A2BE2?style=for-the-badge&logo=origin&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GraphQL-8A2BE2?style=for-the-badge&logo=graphql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CI/CD-8A2BE2?style=for-the-badge&logo=gocd&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Kubernetes-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/HEADLESS%20UI-8A2BE2?style=for-the-badge&logo=headlessui&logoColor=white)
@@ -54,7 +56,7 @@ Check out my GitHub for a portfolio of projects, and let's connect for potential
 ![Static Badge](https://img.shields.io/badge/FIREBASE%20HOOKS-8A2BE2?style=for-the-badge&logo=firebase&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CLERK%20AUTH-8A2BE2?style=for-the-badge&logo=clerk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/EXPO%20APP-8A2BE2?style=for-the-badge&logo=expo&logoColor=white)
-![Static Badge](https://img.shields.io/badge/AWS%20(EC2,VPC,S3,Jump%20Server)-8A2BE2?style=for-the-badge&logo=aws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AWS%20(EC2,VPC,S3,Jump%20Server)-8A2BE2?style=for-the-badge&logo=aws%20lambda&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=white)
 
 -------------------------
