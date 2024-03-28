@@ -47,6 +47,9 @@ Check out my GitHub for a portfolio of projects, and let's connect for potential
 ![Static Badge](https://img.shields.io/badge/CI/CD-8A2BE2?style=for-the-badge&logo=gocd&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/Bun-8A2BE2?style=for-the-badge&logo=bun&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ElysiaJS-8A2BE2?style=for-the-badge&logo=lydia&logoColor=white)
+
 ### Tools
 ![Static Badge](https://img.shields.io/badge/HEADLESS%20UI-8A2BE2?style=for-the-badge&logo=headlessui&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/FIGMA-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)
