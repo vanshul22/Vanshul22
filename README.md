@@ -44,11 +44,8 @@ Check out my GitHub for a portfolio of projects, and let's connect for potential
 ![Static Badge](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=llvm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ORM'S-8A2BE2?style=for-the-badge&logo=origin&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GraphQL-8A2BE2?style=for-the-badge&logo=graphql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CI/CD-8A2BE2?style=for-the-badge&logo=gocd&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Kubernetes-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 ![Static Badge](https://img.shields.io/badge/Bun-8A2BE2?style=for-the-badge&logo=bun&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ElysiaJS-8A2BE2?style=for-the-badge&logo=lydia&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Elysia%20JS-8A2BE2?style=for-the-badge&logo=lydia&logoColor=white)
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/HEADLESS%20UI-8A2BE2?style=for-the-badge&logo=headlessui&logoColor=white)
@@ -61,6 +58,8 @@ Check out my GitHub for a portfolio of projects, and let's connect for potential
 ![Static Badge](https://img.shields.io/badge/EXPO%20APP-8A2BE2?style=for-the-badge&logo=expo&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/AWS%20(EC2,VPC,S3,Jump%20Server)-8A2BE2?style=for-the-badge&logo=aws%20lambda&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Kubernetes-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CI/CD-8A2BE2?style=for-the-badge&logo=gocd&logoColor=white)
 
 -------------------------
 
