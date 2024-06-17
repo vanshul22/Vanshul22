@@ -2,19 +2,19 @@
 
 Hello, Folks! <img src="https://raw.githubusercontent.com/vanshul22/vanshul22/master/wave.gif" width="30px" height="30px" />
 
-Web Developer & Designer
+Software Engineer
 
 ------------------------
 
-I am a motivated Full Stack Developer working at Superior Code Labs. 
-My expertise includes React, NodeJS, Express JS, MySQL, Python and Linux. 
+I am a motivated Software Engineer working at Traya Health. 
+My expertise includes React, NodeJS, Express JS, MySQL, Python. 
 I am skilled in Next.js and React Native, crafting dynamic Websites and Apps. 
 Check out my GitHub for a portfolio of projects, and let's connect for potential collaborations.
 
 -------------------------
 
 * 🌍  I'm based in Bengaluru.
-* 🖥️  See my portfolio at [Vanshul's Portfolio.]
+* 🖥️  See my portfolio at [Vanshul's Portfolio.](https://vanshul22.vercel.app/)
 * ✉️  You can contact me at [vkvanshulkesharwani54@gmail.com](mailto:vkvanshulkesharwani54@gmail.com)
 * 🧠  I'm currently mastering in [Next Js](https://nextjs.org/) Framework.
 
